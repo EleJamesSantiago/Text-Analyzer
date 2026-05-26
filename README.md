@@ -5,6 +5,7 @@ Text Analyzer System is a software application developed to analyze and process 
 - Word Counter
 - Character Counter
 - Sentence Counter
+
 These features help users easily analyze and review text documents without manually counting or checking the contents.
 
 # Installation
@@ -23,6 +24,7 @@ To run this project on your computer, follow these steps:
 # Authors
 - Ele James Santiago: https://github.com/EleJamesSantiago
 - Mikey Diaz: https://github.com/mikeyzaid5-png
+
 The members collaborated in designing, coding, testing, and documenting the system.
 
 # License
